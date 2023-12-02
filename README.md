@@ -21,11 +21,11 @@ This app is up and running on Streamlit cloud server!!! Thanks 'Streamlit' for t
 
 ### Home page and Insurance-Predictor Performance
 
-https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWx2eDBzcDZ0bHZ6a3lhYnIzZjg0M250YmJzamJ5ZzVvd2o3c2RscSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1kXt0PxeqFpDr8qgSU/giphy.gif
+ ![demo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWx2eDBzcDZ0bHZ6a3lhYnIzZjg0M250YmJzamJ5ZzVvd2o3c2RscSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1kXt0PxeqFpDr8qgSU/giphy.gif)
 
 ### Insurance-Predictor Dashboard
 
-https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGNqZjkxZHo2bmZyeXg1N2s1cjR4dDlhcTI3em83OHdseXQxZjNjbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JifNXkaFH8QuTo7Ztq/giphy.gif
+ ![demo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGNqZjkxZHo2bmZyeXg1N2s1cjR4dDlhcTI3em83OHdseXQxZjNjbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JifNXkaFH8QuTo7Ztq/giphy.gif)
 
 ## Requirements
 Python 3.9.13
